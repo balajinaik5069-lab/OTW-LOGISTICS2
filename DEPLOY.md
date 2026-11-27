@@ -4,7 +4,7 @@
 OTW-Logistics/
 ├─ frontend/              ← VERCEL  (Root Directory = frontend)
 │  ├─ index.html, services.html, ...     public website (served at /)
-│  ├─ dashboard/                         admin panel      (/dashboard/)
+│  ├─ dashboard/                         admin panel      (/Admin/)
 │  ├─ vendor/                            vendor portal    (/vendor/)
 │  ├─ franchise/                         franchise portal (/franchise/)
 │  └─ vercel.json                        sends /api/* to Render  ← edit the Render address in it
