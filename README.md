@@ -8,7 +8,7 @@ OTW-Logistics/
   backend/              Node/Express + SQLite server (applications, emails, payments, portals' API)  -> Render
   frontend/             -> Vercel
     (root)              Public site with Franchise & Vendor application forms
-    dashboard/          Admin panel (applications under Client > Franchise / Vendor)
+    Admin/          Admin panel (applications under Client > Franchise / Vendor)
     vendor/             Vendor Management Portal
     franchise/          Franchise Management Portal
   render.yaml           Render blueprint
